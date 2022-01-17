@@ -18,7 +18,7 @@
 
 #include <unistd.h>
 
-#include "unittest.h"
+#include "include/unittest.h"
 
 
 #ifdef __MINGW32__

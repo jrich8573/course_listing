@@ -1,4 +1,4 @@
-#include "courseName.h"
+#include "include/courseName.h"
 
 #include <iostream>
 #include <string>

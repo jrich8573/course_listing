@@ -4,9 +4,9 @@
 #include <string>
 #include <vector>
 
-#include "course.h"
-#include "catalog.h"
-#include "memoryChecked.h"
+#include "include/course.h"
+#include "include/catalog.h"
+#include "include/memoryChecked.h"
 
 using namespace std;
 

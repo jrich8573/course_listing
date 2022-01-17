@@ -1,5 +1,5 @@
-#include "course.h"
-#include "unittest.h"
+#include "include/course.h"
+#include "include/unittest.h"
 #include <sstream>
 
 using namespace std;
